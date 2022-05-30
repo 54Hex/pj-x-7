@@ -3,7 +3,7 @@
 
 ## NOTE 
 
-- This needs to be used with the Kitronic Kit. Refer to turotial 7 (Wind Power) 
+- This needs to be used with the Kitronic Kit. Refer to tutorial 7 (Wind Power) 
 - I haven't touched Micro:Bit since forever (End 2020). So I'm not sure if this still works or nah 
 
 ## Use as Extension
